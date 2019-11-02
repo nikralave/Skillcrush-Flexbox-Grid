@@ -127,6 +127,8 @@ header,
 footer,
 main {
   /*set display to flex and vertically & horizontally align by setting justify-content and align-items to center*/
+  justify-content: center;
+  align-items: center;
 }
 
 #div-1,
